@@ -1,0 +1,11 @@
+### IDEA ###
+.idea/*
+*.iml
+*/target/*
+*/*.iml
+/.gradle/
+~/*
+avatar/*
+file/*
+nohup.out
+.DS_Store
